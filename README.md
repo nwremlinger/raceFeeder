@@ -1,0 +1,1 @@
+AngularJS application that pulls F1 Race data using Ergast API
